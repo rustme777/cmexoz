@@ -30,8 +30,8 @@ echo ✅ Зависимости установлены
 echo.
 echo ⚙️ Создание конфигурационного файла...
 if not exist ".env" (
-    echo BOT_TOKEN=ВАШ_ТОКЕН_БОТА > .env
-    echo ADMIN_IDS=[ВАШ_ID] >> .env
+    echo BOT_TOKEN=8490738509:AAHR1X1Ps6M5bbsTMrkHaFSEcqGozTPnZTQ > .env
+    echo ADMIN_IDS=[1609256545 , 1386994047] >> .env
     echo WEBHOOK_URL= >> .env
     echo PORT=8080 >> .env
     echo ✅ Файл .env создан
